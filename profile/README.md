@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=Arthnex&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Engineer%20the%20Future&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3D3580&height=120&section=header&text=Arthnex&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Engineer%20the%20Future&descAlignY=62&descSize=16" width="100%"/>
 
 </div>
 
@@ -146,9 +145,9 @@ A software studio at the intersection of craft and ambition — building digital
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/hello@arthnex.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@arthnex.com)
+[![Email](https://img.shields.io/badge/arthnex.tech@gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthnex.tech@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/arthnex)
-[![Website](https://img.shields.io/badge/arthnex.com-00D4AA?style=for-the-badge&logo=safari&logoColor=white)](https://arthnex.com)
+[![Website](https://img.shields.io/badge/arthnex--website.vercel.app-00D4AA?style=for-the-badge&logo=safari&logoColor=white)](https://arthnex-website.vercel.app/)
 
 </div>
 
@@ -160,6 +159,6 @@ A software studio at the intersection of craft and ambition — building digital
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D4AA&height=100&section=footer&text=Building%20what%20matters.&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=008060&height=100&section=footer&text=Building%20what%20matters.&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 </div>
