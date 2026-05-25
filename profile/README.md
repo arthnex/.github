@@ -45,12 +45,13 @@ A software studio at the intersection of craft and ambition — building digital
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>💍 ShaadiVerse</h3>
-      <p>A digital platform reimagining the wedding experience — connecting families, vendors, and moments in one beautiful ecosystem.</p>
+      <h3>🎓 ClassMitra</h3>
+      <p>The digital operating system for India's local tuition ecosystem — streamlining homework, attendance, fees, and progress tracking while keeping teachers, parents, and students in sync.</p>
       <p>
-        <img src="https://img.shields.io/badge/Status-In_Development-FBBF24?style=flat-square&labelColor=0B0B12"/>
-        <img src="https://img.shields.io/badge/Web_App-6C63FF?style=flat-square&labelColor=0B0B12"/>
-        <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat-square&labelColor=0B0B12"/>
+        <img src="https://img.shields.io/badge/Status-Coming_Soon-6C63FF?style=flat-square&labelColor=0B0B12"/>
+        <img src="https://img.shields.io/badge/Mobile_App-00D4AA?style=flat-square&labelColor=0B0B12"/>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&labelColor=0B0B12"/>
+        <img src="https://img.shields.io/badge/Education-00D4AA?style=flat-square&labelColor=0B0B12"/>
       </p>
     </td>
   </tr>
@@ -65,13 +66,12 @@ A software studio at the intersection of craft and ambition — building digital
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 ClassMitra</h3>
-      <p>The digital operating system for India's local tuition ecosystem — streamlining homework, attendance, fees, and progress tracking while keeping teachers, parents, and students in sync.</p>
+      <h3>💍 ShaadiVerse</h3>
+      <p>A digital platform reimagining the wedding experience — connecting families, vendors, and moments in one beautiful ecosystem.</p>
       <p>
-        <img src="https://img.shields.io/badge/Status-Coming_Soon-6C63FF?style=flat-square&labelColor=0B0B12"/>
-        <img src="https://img.shields.io/badge/Mobile_App-00D4AA?style=flat-square&labelColor=0B0B12"/>
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&labelColor=0B0B12"/>
-        <img src="https://img.shields.io/badge/Education-00D4AA?style=flat-square&labelColor=0B0B12"/>
+        <img src="https://img.shields.io/badge/Status-In_Development-FBBF24?style=flat-square&labelColor=0B0B12"/>
+        <img src="https://img.shields.io/badge/Web_App-6C63FF?style=flat-square&labelColor=0B0B12"/>
+        <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat-square&labelColor=0B0B12"/>
       </p>
     </td>
   </tr>
